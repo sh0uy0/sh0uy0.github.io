@@ -1,0 +1,116 @@
+.header-wrapper {
+  background-color: rgba(105, 77, 52, 0.5);
+  min-height: 200px;
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.logo {
+  position: absolute;
+  margin: 60px 60px;
+}
+
+.hero-wrapper {
+  background-color: rgba(104, 188, 53, 0.3);
+  height: 250px;
+}
+
+.article-z {
+  float: left;
+  padding: 100px 200px;
+}
+
+.three-wrapper {
+  background-color: rgba(31, 141, 80, 0.52);
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.three-wrapper .column-1 {
+  padding-left: 100px;
+}
+
+.three-wrapper .article-1 {
+  float: left;
+  min-height: 100px;
+  width: 33%;
+  margin-top: 55px;
+}
+
+.three-wrapper .article-2 {
+  float: left;
+  min-height: 100px;
+  width: 33%;
+  margin-top: 55px;
+}
+
+.three-wrapper .article-3 {
+  float: left;
+  width: 33%;
+  min-height: 100px;
+  margin-top: 55px;
+}
+
+.wrapper-2 {
+  background-color: rgba(176, 151, 96, 0.5);
+}
+
+.footer {
+  clear: both;
+  background-color: rgba(255, 86, 80, 0.58);
+  min-height: 130px;
+  border-top: 30px;
+}
+
+.col s9 {
+  float: right;
+}
+
+body {
+  background-image: url(/images/Wallpaper.jpg);
+  background-size: cover;
+}
+
+div a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: right;
+}
+
+li {
+  color: black;
+  display: inline-block;
+  padding-top: 80px;
+  padding-right: 40px;
+}
+
+a {
+  padding: 0px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  background: rgba(31, 141, 80, 0.52);
+}
+
+figure {
+  padding: 50px 0 0 0;
+  float: left;
+}
+
+div footer article {
+  padding: 100px 550px;
+}
+
+div h3, div p {
+  padding: 40px 140px;
+}
+/*# sourceMappingURL=main.css.map */

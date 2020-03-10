@@ -1,0 +1,35 @@
+body {
+  background-image: url(/images/Wallpaper.jpg);
+  background-size: cover;
+}
+
+div, a {
+  text-decoration: none;
+  color: #212121;
+}
+
+a {
+  padding-right: 10px;
+}
+
+.card {
+  opacity: 0.8;
+}
+
+.body-wrapper {
+  background-color: rgba(96, 125, 139, 0.4);
+}
+
+.push {
+  width: 1vw;
+  padding-top: 20px;
+}
+
+.col-a {
+  background-color: rgba(37, 37, 37, 0.3);
+}
+
+.col-a {
+  background-color: rgba(37, 37, 37, 0.3);
+}
+/*# sourceMappingURL=material.css.map */

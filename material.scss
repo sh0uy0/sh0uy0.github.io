@@ -1,0 +1,43 @@
+$color-swatch1: #607d8b;
+$color-swatch2:#212121;
+$color-swatch3: #afb42b;
+$color-swatch4: #00bfa5;
+$color-swatch5: #00b8d4;
+$color-swatch6: #7b1fa2;
+$color-swatch7: #78909c;
+$color-swatch8: rgba(96,125,139,0.4);
+
+body {
+    background-image: url(/images/Wallpaper.jpg);
+    background-size: cover;
+}
+
+div , a { 
+    text-decoration: none;
+    color: $color-swatch2;
+}
+
+a {
+ padding-right: 10px;
+}
+
+.card {
+    opacity: 0.8;
+}
+
+.body-wrapper {
+    background-color: rgba(96,125,139,0.4); ;
+}
+
+.push {
+    width: 1vw;
+    padding-top: 20px;
+}
+
+.col-a  {
+    background-color: rgba(37, 37, 37, 0.3);
+}
+
+.col-a {
+    background-color: rgba(37, 37, 37, 0.3);
+}
