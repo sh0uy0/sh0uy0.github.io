@@ -12,6 +12,10 @@ body {
     background-size: cover;
 }
 
+img {
+    opacity:0.4 ;
+}
+
 div , a { 
     text-decoration: none;
     color: $color-swatch2;
